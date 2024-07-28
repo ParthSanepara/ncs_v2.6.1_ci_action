@@ -1,5 +1,5 @@
 # nrf-connect-sdk-ci
-Build NRF Connect SDK projects
+Build NRF Connect SDK projects V2.6.1
 
 ## Usage example:
 
