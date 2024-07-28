@@ -2,8 +2,6 @@ name: Publish image
 
 on:
   push:
-    tags:
-    - 'v*.*.*'
 
 jobs:
   build:
